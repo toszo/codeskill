@@ -1,0 +1,1 @@
+this folder will contain solution for live logger project purposes. 
